@@ -1,0 +1,120 @@
+ip,total_clicks,total_conversions,min_gap_seconds,burst_flag
+925,5,0,16554,Normal
+3133,6,0,6181,Normal
+3964,6,0,1263,Normal
+3994,8,0,6169,Normal
+4019,5,0,16208,Normal
+4052,8,0,239,Medium Risk: rapid succession
+5147,11,0,2019,Medium Risk: high-volume
+5178,14,0,318,Medium Risk: high-volume
+5314,62,0,55,High Risk: rapid + high-volume
+5348,76,0,74,High Risk: rapid + high-volume
+13634,5,0,2555,Normal
+14737,6,0,2595,Normal
+17149,18,1,77,High Risk: rapid + high-volume
+20215,5,0,21673,Normal
+22978,5,0,38667,Normal
+24905,5,0,2429,Normal
+25097,5,0,8679,Normal
+26814,6,0,1385,Normal
+26995,16,0,2522,Medium Risk: high-volume
+30587,5,0,3824,Normal
+32457,5,0,1,Medium Risk: rapid succession
+36150,5,0,25159,Normal
+36213,8,0,3861,Normal
+37892,5,0,672,Normal
+37972,5,0,14452,Normal
+39782,5,0,15326,Normal
+40631,5,0,550,Normal
+43793,13,0,275,High Risk: rapid + high-volume
+43827,9,0,2830,Normal
+43855,5,0,11112,Normal
+44067,6,0,6363,Normal
+44327,5,0,8476,Normal
+44494,5,0,528,Normal
+44527,5,0,16007,Normal
+44595,5,0,1231,Normal
+44663,5,0,2824,Normal
+44673,5,0,6964,Normal
+44744,9,0,151,Medium Risk: rapid succession
+45745,10,0,2440,Medium Risk: high-volume
+48170,8,0,469,Normal
+48212,11,0,1710,Medium Risk: high-volume
+48240,12,0,938,Medium Risk: high-volume
+48282,12,0,146,High Risk: rapid + high-volume
+49602,8,0,2025,Normal
+51992,5,0,11132,Normal
+52024,5,0,2635,Normal
+53454,24,0,68,High Risk: rapid + high-volume
+53479,8,0,797,Normal
+53715,7,0,2481,Normal
+53929,5,0,25945,Normal
+53960,7,0,11189,Normal
+53964,11,0,368,Medium Risk: high-volume
+59125,5,0,1499,Normal
+60752,7,0,5173,Normal
+73487,36,0,226,High Risk: rapid + high-volume
+73516,36,0,182,High Risk: rapid + high-volume
+74013,5,0,785,Normal
+75595,11,0,1555,Medium Risk: high-volume
+75634,9,0,1958,Normal
+77048,7,0,7692,Normal
+79827,6,0,5273,Normal
+79909,5,0,17387,Normal
+84896,8,0,6497,Normal
+85150,6,0,1505,Normal
+85625,5,0,30526,Normal
+86767,17,0,492,Medium Risk: high-volume
+87879,7,0,3203,Normal
+88281,5,0,11374,Normal
+90509,5,0,10864,Normal
+90891,6,0,8606,Normal
+91574,5,0,27938,Normal
+92673,5,0,5726,Normal
+92735,5,0,17528,Normal
+92766,10,0,4147,Medium Risk: high-volume
+93021,11,0,2516,Medium Risk: high-volume
+93587,9,0,730,Normal
+95766,30,0,48,High Risk: rapid + high-volume
+95820,5,0,1824,Normal
+97773,5,0,6488,Normal
+100182,5,0,3616,Normal
+100212,6,0,5091,Normal
+100275,12,0,71,High Risk: rapid + high-volume
+100393,11,0,772,Medium Risk: high-volume
+100971,5,0,16504,Normal
+101074,7,0,980,Normal
+105292,5,0,5149,Normal
+105475,22,0,161,High Risk: rapid + high-volume
+105560,14,0,1757,Medium Risk: high-volume
+105587,6,0,9754,Normal
+105603,5,0,1382,Normal
+105649,5,0,25909,Normal
+106279,6,0,1572,Normal
+106598,5,0,13598,Normal
+107155,5,0,2342,Normal
+108341,5,0,6614,Normal
+108858,5,0,5386,Normal
+108913,8,0,2241,Normal
+111025,11,0,647,Medium Risk: high-volume
+111324,7,0,69,Medium Risk: rapid succession
+112302,6,0,992,Normal
+114220,9,0,1515,Normal
+114235,5,0,3037,Normal
+114276,32,0,91,High Risk: rapid + high-volume
+114314,10,0,2611,Medium Risk: high-volume
+114904,5,0,9233,Normal
+119289,9,0,1969,Normal
+119349,11,0,382,Medium Risk: high-volume
+119369,7,0,5301,Normal
+119531,8,0,6186,Normal
+123994,8,0,3271,Normal
+125222,13,0,1335,Medium Risk: high-volume
+137052,10,0,5218,Medium Risk: high-volume
+138561,6,0,2041,Normal
+145896,7,0,2375,Normal
+152714,5,0,22167,Normal
+178851,5,0,12935,Normal
+178873,5,0,4027,Normal
+201182,11,0,1876,Medium Risk: high-volume
+209663,9,0,335,Normal
