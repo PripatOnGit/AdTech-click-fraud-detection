@@ -8,7 +8,7 @@ SELECT
   COUNT(DISTINCT os) AS unique_os_versions_used,
   COUNT(*) AS total_ip_clicks,
   SUM(is_attributed) AS total_installs
-FROM `adtech_fraud.click_logs`
+FROM `adtech_fraud.clicks_clean`
 GROUP BY ip
 HAVING unique_devices_used > 2 AND unique_os_versions_used > 2
 ORDER BY total_ip_clicks DESC;
