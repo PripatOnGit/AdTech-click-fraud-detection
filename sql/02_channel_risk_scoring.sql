@@ -11,7 +11,7 @@ WITH channel_summary AS (
     ROUND(SAFE_DIVIDE(SUM(is_attributed), COUNT(*)) * 100, 2) AS conversion_rate_pct,
     -- Calculate estimated advertising spend at $0.20 per click
     COUNT(*) * 0.20 AS estimated_ad_spend
-  FROM `adtech_fraud.click_logs`
+  FROM `adtech_fraud.clicks_clean`
   GROUP BY channel
 )
 SELECT 
