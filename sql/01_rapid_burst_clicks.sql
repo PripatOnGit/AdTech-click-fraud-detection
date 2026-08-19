@@ -10,7 +10,7 @@ WITH time_differences AS (
     click_time,
     -- Retrieve the timestamp of the previous click from the same IP
     LAG(click_time) OVER (PARTITION BY ip ORDER BY click_time) AS prev_click_time
-  FROM `adtech_fraud.click_logs`
+  FROM `adtech_fraud.clicks_clean`
 ),
 calculated_lags AS (
   SELECT 
