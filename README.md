@@ -1,8 +1,11 @@
 # Ad-Tech Click Fraud & Traffic Anomaly Detection
 
+Tableau Dashboard: https://public.tableau.com/app/profile/priyanka.patil2211/viz/Ad-TechFraudDetectionAnalysis/AD-TechFraudDetectionAnalysisDashboard
+
 An end-to-end analytics project identifying fraudulent ad clicks, high-risk channels, and botnet-style device masking in mobile ad traffic, built on a sample of the Kaggle TalkingData AdTracking dataset.
 
 **Stack:** Google Sheets (preprocessing) → BigQuery (SQL analytics) → CSV export → Tableau Public (dashboard) → GitHub (portfolio)
+
 
 **Perspective:** analyst on a mobile ad network's traffic-quality team — protecting advertiser spend by identifying and blocklisting fraudulent publishers/IPs before advertisers notice wasted budget.
 
